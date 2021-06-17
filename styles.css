@@ -1,0 +1,72 @@
+font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/comfortaa/v30/1Ptsg8LJRfWJmhDAuUs4Q4FqL_KWxWMT.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/comfortaa/v30/1Ptsg8LJRfWJmhDAuUs4Q4FqL_KWxWMT.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+
+
+section {
+    border: 2px solid grey;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+#prussianBlue {
+    background-color: #1d2d44;
+    color: white;
+}
+
+#amberSaeEce {
+    background-color: #FF7F11;
+}
+
+#redRyb {
+    background-color: #FF1B1C;
+}
+
+#cambridgeBlue {
+    background-color: #92B4A7;
+}
+
+#forestGreenTraditional {
+    background-color: #0A3200;
+    color: white;
+}
+
+#benne {
+    font-family: 'Benne', serif;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-style: bold;
+}
